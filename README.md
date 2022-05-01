@@ -6,6 +6,9 @@ Projects are done in Rhino3d and Grasshopper, accompanied by a powerpoint to sho
 
 **Assignment 1 Example Images:**
 
+<p align="center">
+  <img src="https://i.imgur.com/SX8juR2.jpg">
+</p>
 ![alt text](https://i.imgur.com/SX8juR2.jpg)
 ![alt text](https://i.imgur.com/zJU4rbm.jpg)
 
