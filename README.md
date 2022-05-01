@@ -11,7 +11,8 @@ Projects are done in Rhino3d and Grasshopper, accompanied by a powerpoint to sho
   <img src="https://i.imgur.com/zJU4rbm.jpg">
 </p>
 
+**Assignment 2 Example Images:**
+  
 <p align="center">
-  **Assignment 2 Example Images:**
   <img src="https://i.imgur.com/yeuYkrt.jpg">
 </p>
