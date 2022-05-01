@@ -11,7 +11,7 @@ Projects are done in Rhino3d using only Grasshopper, accompanied by a powerpoint
   <img src="https://i.imgur.com/zJU4rbm.jpg">
 </p>
 
-**Assignment 2 : Paramatric Design Key Images:**
+**Assignment 2 : Paramatric Design Key Image:**
   
 <p align="center">
   <img src="https://i.imgur.com/yeuYkrt.jpg">
