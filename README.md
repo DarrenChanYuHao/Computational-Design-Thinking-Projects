@@ -7,6 +7,8 @@ Projects done during the course period of Computational Design Thinking in Singa
 For the final assignment of this course, my group was tasked to create a simple game in Python.
 We decided to take what we learnt to the limit and created a multiplayer typing game using Python and Firebase for Windows OS
 
+More details in the relevant folder README.
+
 **Design Portion :**
 
 Projects are done in Rhino3d using only Grasshopper, accompanied by a powerpoint to showcase to explain the design thinking behind it
