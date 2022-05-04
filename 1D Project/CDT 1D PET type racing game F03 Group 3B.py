@@ -11,11 +11,11 @@ import msvcrt # For non-paused user inputs
 # Firebase auth setups
 #====================================================================================================
 projectid = "myctdproject-chan-darren-default-rtdb"
-dburl =  "https://ctd-1d-pet-racing-game-default-rtdb.asia-southeast1.firebasedatabase.app/"
-authdomain = "https://ctd-1d-pet-racing-game-default-rtdb.asia-southeast1.firebasedatabase.app/"
-apikey = "AIzaSyBZE2wh1Hwo0I3OP3y-qzE2uqLktQNfOPA"
-email = "ctd1dpetracing@gmail.com"
-password = "ctd1dpetracing"
+dburl =  #"insert data base URL here"
+authdomain = #"insert authdomain URL here"
+apikey = #"insert API key from Firebase"
+email = #Player log in details ""
+password = #Player password ""
 
 config = {
     "apiKey": apikey,
