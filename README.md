@@ -5,6 +5,7 @@ Projects done during the course period of Computational Design Thinking in Singa
 <H2>Computing Portion :</H2>
 
 **1D Project**
+
 For the final assignment of this course, my group was tasked to create a simple game in Python.
 We decided to take what we learnt to the limit and created a multiplayer typing game using Python and Firebase for Windows OS
 
