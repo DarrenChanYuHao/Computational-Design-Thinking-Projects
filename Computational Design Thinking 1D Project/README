@@ -1,0 +1,12 @@
+In this folder is a game made with my groupmates for a project for year 1.1 module Computational Design Thinking
+
+This game is a multiplayer text based game. When the game starts, the first player will choose a
+prefix for the game. Each player is allocated 20 seconds as their health, each turn will deduct
+their health based on the time spent on their turn.
+
+Players will use the chosen prefix to type the word, the game will record the time spent on their
+turn and deduct their health before proceeding to the next player’s turn.
+
+When players enter an invalid word (i.e. wrong spelling, repetition), the game will prompt him to
+try again. The player loses if he runs out of time, the game will continue until there is 1 player
+remaining.
