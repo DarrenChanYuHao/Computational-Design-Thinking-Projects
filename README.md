@@ -1,6 +1,6 @@
 # Computational Design Thinking Projects
 
-Projects done during the course period of Computational Design Thinking in Singapore University of Technology and Design.
+Projects done during the course period of 10.014 : Computational Design Thinking in Singapore University of Technology and Design.
 
 <H2>Computing Portion :</H2>
 
