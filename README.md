@@ -9,7 +9,7 @@ We decided to take what we learnt to the limit and created a multiplayer typing 
 
 More details in the relevant folder README.
 
-<H1>**Design Portion :**<H1>
+<H2>Design Portion :</H2>
 
 Projects are done in Rhino3d using only Grasshopper, accompanied by a powerpoint to showcase to explain the design thinking behind it
 
